@@ -17,7 +17,7 @@ I primarily have experience working on the Full-Stack Software Engineer includin
 
 #### Availability: Available :)
 - 📫 Hire me: 
--   * Upwork <https://www.upwork.com/freelancers/~01d478bbabdfa2e861>
+-   * [Upwork] (https://www.upwork.com/freelancers/~01d478bbabdfa2e861)
 
 
 <!--
