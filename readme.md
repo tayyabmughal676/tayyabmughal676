@@ -20,6 +20,11 @@ I primarily have experience working on the Full-Stack Software Engineer includin
 
 ### Connect: 
 - [StackOverFlow](https://stackoverflow.com/users/7155849/mr-tayyab-mughal)
+- [Linkedin](https://www.linkedin.com/in/mrtayyabmughal/)
+- [Twitter](https://twitter.com/wodatoki/)
+- [Instagram](https://www.instagram.com/wodatoki/)
+
+
 
 #### Availability: Available :)
 - 📫 Hire me: [Upwork](https://www.upwork.com/freelancers/~01d478bbabdfa2e861)
