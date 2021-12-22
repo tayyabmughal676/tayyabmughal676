@@ -21,6 +21,12 @@ I primarily have experience working on the Full-Stack Software Engineer includin
 #### Availability: Available :)
 - 📫 Hire me: [Upwork](https://www.upwork.com/freelancers/~01d478bbabdfa2e861)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabmughal676)](https://github.com/tayyabmughal676/github-readme-stats)
+
+
+
+
 <!--
 **saifalfalah/saifalfalah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
