@@ -25,6 +25,8 @@ I primarily have experience working on the Full-Stack Software Engineer includin
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabmughal676)](https://github.com/tayyabmughal676/github-readme-stats)
 
 
+[![Tayyab Mughal's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayyabmughal676)](https://github.com/tayyabmughal676/github-readme-stats)
+
 
 
 <!--
