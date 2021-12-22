@@ -2,9 +2,10 @@
 
 ### Freelance Flutter Engineer & Top-Rated Comic Book Writer.
 
-I am a freelance Flutter Engineer who is passionate about making robust, modern mobile applications with clients in over multiple countries in the world. With over 2 years of experience working as a freelance engineer, I have had the experience and the privilege of working with companies ranging from as big as Fortune 100 to micro-startups all around the world.
+I am a freelance Flutter Engineer who is passionate about making robust, modern mobile applications with clients in over multiple countries in the world. With over 2 years of experience working as a freelance engineer.
+<!-- I have had the experience and the privilege of working with companies ranging from as big as Fortune 100 to micro-startups all around the world. -->
 
-I primarily have experience working on the Full-Stack Software Engineer including Flutter, iOS Native, Express, Node, AWS, Firebase, MongoDB, MySQL etc.
+I primarily have experience working on the Full-Stack Software Engineer including Flutter, iOS Native, TypeScript, Express, Node, Stripe SDK, AWS, Firebase, MongoDB, MySQL etc.
 
 <!-- - 📫 Hire me: <hey@saif.dev> -->
 <!-- - 🕸 Website: [saif.dev](https://www.saif.dev) -->
