@@ -19,7 +19,7 @@ I primarily have experience working on the Full-Stack Software Engineer includin
 ***
 
 ### Connect: 
-- StackOverFlow: [StackOverFlow](https://stackoverflow.com/users/7155849/mr-tayyab-mughal)
+- [StackOverFlow](https://stackoverflow.com/users/7155849/mr-tayyab-mughal)
 
 #### Availability: Available :)
 - 📫 Hire me: [Upwork](https://www.upwork.com/freelancers/~01d478bbabdfa2e861)
