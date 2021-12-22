@@ -1,5 +1,7 @@
 # Hey there, I'm Tayyab 'Thor' Mughal 👋 👨‍💻! 
 
+<a href="#"><img width="100%" height="8%" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" height="50px"/></a>
+
 ### Freelance Flutter Engineer & Top-Rated Comic Book Writer.
 
 I am a freelance Flutter Engineer who is passionate about making robust, modern mobile applications with clients in multiple countries in the world. With over 2 years of experience working as a freelance engineer.
