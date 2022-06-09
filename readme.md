@@ -11,7 +11,7 @@ I primarily have experience working on the Full-Stack Software Engineer includin
 <!-- - 🕸 Website: [saif.dev](https://www.saif.dev) -->
 <!-- - 📂 Portfolio: Available on [request](mailto:portfolio@saif.dev) -->
 
-- 🔭 I’m currently working at [Jinnbyte](https://www.jinnbyte.com) as a Mobile Application Engineer.
+- 🔭 I’m currently working at [UpWork](https://www.upwork.com/freelancers/~01d478bbabdfa2e861) as a Mobile Application Engineer.
 
 <!-- [☕ Buy me a coffee](https://www.buymeacoffee.com/saif) -->
 
