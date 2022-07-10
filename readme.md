@@ -8,13 +8,8 @@ I am a Freelance Flutter Engineer who is passionate about making robust, modern 
 
 I primarily have experience working on the Full-Stack Software Engineer including Flutter, iOS Native, TypeScript, Express, Node, Stripe SDK, AWS, Firebase, MongoDB, MySQL etc.
 
-<!-- - 🕸 Website: [saif.dev](https://www.saif.dev) -->
-<!-- - 📂 Portfolio: Available on [request](mailto:portfolio@saif.dev) -->
-
 - 🔭 I’m currently working at [UpWork](https://www.upwork.com/freelancers/~01d478bbabdfa2e861) as a Mobile Application Engineer.
-
-<!-- [☕ Buy me a coffee](https://www.buymeacoffee.com/saif) -->
-
+- 
 ***
 
 ### Connect: 
@@ -27,6 +22,10 @@ I primarily have experience working on the Full-Stack Software Engineer includin
 
 #### Availability: Available :)
 - 📫 Hire me: [Upwork](https://www.upwork.com/freelancers/~01d478bbabdfa2e861)
+#### Top Tech Stack:
+
+<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a> <a href = "https://riverpod.dev/" tarrget = "_blank"> <img src = "https://riverpod.dev/img/logo.svg" height = "40" width = "40"/> </a>
+
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabmughal676)](https://github.com/tayyabmughal676/github-readme-stats) -->
@@ -35,10 +34,6 @@ I primarily have experience working on the Full-Stack Software Engineer includin
 [![Tayyab Mughal's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayyabmughal676)](https://github.com/tayyabmughal676/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabmughal676&layout=compact)](https://github.com/tayyabmughal676/github-readme-stats)
-
-#### Top Tech Stack:
-
-<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a> <a href = "https://riverpod.dev/" tarrget = "_blank"> <img src = "https://riverpod.dev/img/logo.svg" height = "40" width = "40"/> </a>
 
 
 <!--
