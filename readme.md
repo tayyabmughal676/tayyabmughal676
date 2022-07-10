@@ -36,6 +36,11 @@ I primarily have experience working on the Full-Stack Software Engineer includin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabmughal676&layout=compact)](https://github.com/tayyabmughal676/github-readme-stats)
 
+#### Top Tech Stack:
+
+<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a> <a href = "https://riverpod.dev/" tarrget = "_blank"> <img src = "https://riverpod.dev/img/logo.svg" height = "40" width = "40"/> </a>
+
+
 <!--
 **saifalfalah/saifalfalah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
