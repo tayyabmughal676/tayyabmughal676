@@ -2,7 +2,7 @@
 
 <!-- <a href="#"><img width="100%" height="4%" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" height="50px"/></a> -->
 
-### Freelance Flutter Engineer & Top-Rated Comic Book Writer.
+### Top-Rated Freelance Flutter Engineer & Comic Book Writer.
 
 I am a Freelance Flutter Engineer who is passionate about making robust, modern mobile applications for International clients. With over 2 years of working experience as a Freelance Software Engineer.
 
