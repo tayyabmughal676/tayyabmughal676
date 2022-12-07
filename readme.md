@@ -8,7 +8,7 @@ I am a Freelance Flutter Engineer who is passionate about making robust, modern 
 
 I primarily have experience working on the Full-Stack Software Engineer including Flutter, iOS Native, Python, FastApi, Machine Learning, TypeScript, Express, Node, Stripe SDK, AWS, Firebase, MongoDB, MySQL etc.
 
-Learning: Bun.sh, Honojs.dev, 
+Learning: Bun.sh's eco-system
 
 - 🔭 I’m currently working at [UpWork](https://www.upwork.com/freelancers/~01d478bbabdfa2e861) as a Mobile Application Engineer.
 ***
