@@ -4,11 +4,11 @@
 
 ### Top-Rated Freelance Flutter Engineer & Comic Book Writer.
 
-I am a Freelance Flutter Engineer who is passionate about making robust, modern mobile applications for International clients. With over 3 years of working experience as a Freelance Software Engineer.
+I am a Freelance Flutter Engineer who is passionate about making robust, modern mobile applications for International clients. With over 4 years of working experience as a Freelance Software Engineer.
 
-I primarily have experience working on the Full-Stack Software Engineer including Flutter, iOS Native, Python, FastApi, Machine Learning, TypeScript, Express, Node, Stripe SDK, AWS, Firebase, MongoDB, MySQL etc.
+I primarily have experience working on the Full-Stack Software Engineer including Flutter, iOS Native, Python, FastApi, ChatGPT, OpenAI, Diffusion stable, Generative AI, Machine Learning, TypeScript, Express, Node, Stripe SDK, AWS, Firebase, MongoDB, MySQL etc.
 
-Learning: Bun.sh's eco-system
+Learning: Deno.land, Bun.sh's eco-system, Generative AI, etc.
 
 - 🔭 I’m currently working at [UpWork](https://www.upwork.com/freelancers/~01d478bbabdfa2e861) as a Mobile Application Engineer.
 - 🔭 Product Manager & Fullstack Software Engineer at [My e-Assitant App](https://myeassistant.app/).
