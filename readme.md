@@ -10,7 +10,7 @@ I primarily have experience working on the Full-Stack Software Engineer includin
 
 Learning: Deno.land, Bun.sh's eco-system, Generative AI, etc.
 
-- 🔭 I’m currently working at [UpWork](https://www.upwork.com/freelancers/~01d478bbabdfa2e861) as a Mobile Application Engineer.
+- 🔭 I’m currently working at [Upwork](https://www.upwork.com/freelancers/~01d478bbabdfa2e861) as a Mobile Application Engineer.
 - 🔭 Product Manager & Fullstack Software Engineer at [My e-Assitant App](https://myeassistant.app/).
 ***
 
