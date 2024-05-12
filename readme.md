@@ -6,20 +6,20 @@ My rich background encompasses over **5+ years** of freelance software engineeri
 
 My proficiency is deeply rooted in Full-Stack Development, with a mastery of an array of technologies including:
 
-###Artificial Intelligence: 
+### Artificial Intelligence: 
 
 -Generative AI, LangChain, Commerical LLMs, Open Source LLMs, RAG Systems. 
 
-###Languages: 
+### Languages: 
 - Python, Dart, Swift, Kotlin, JavaScript, Typescript.
 - 
-###Frameworks: 
+### Frameworks: 
 - Flutter, Andriod SDK, iOS SDK, FastAPI Web, Django Web, Node.JS, React.JS
 
-###Databases: 
+### Databases: 
 - MySQL, PostgreSQL, MongoDB
 
-###Payments: 
+### Payments: 
 - Stripe SDK, and many on demand. 
 
 ###Cloud Computing: 
