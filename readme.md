@@ -1,4 +1,4 @@
-# Hey there, I'm Tayyab Mughal 👋 👨‍💻! 
+# Greetings, I'm Tayyab Mughal 👋 👨‍💻! 
 ### Top-Rated Freelance Senior Full-Stack AI Mobile Application Engineer, Generative AI Engineer & Comic Book Creator.
 
 As a seasoned Freelance Full-Stack Flutter Architect, I am committed to engineering resilient and innovative mobile applications for an extensive array of international clients. 
