@@ -18,7 +18,7 @@ My proficiency is deeply rooted in Full-Stack Development, with a mastery of an 
 **Databases**: 
 - MySQL, PostgreSQL, MongoDB
 
-**Payments: **
+**Payments**:
 - Stripe SDK, and many on demand. 
 
 **Cloud Computing:** 
