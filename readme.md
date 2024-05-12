@@ -1,13 +1,26 @@
 # Hey there, I'm Tayyab Mughal 👋 👨‍💻! 
-### Top-Rated Freelance Fullstack Flutter Engineer & Comic Book Writer.
+### Top-Rated Freelance Senior Full-Stack AI Mobile Application Engineer, Generative AI Engineer & Comic Book Creator.
 
-I am a Freelance Fullstack Flutter Engineer who is passionate about making robust, modern mobile applications for International clients. With over 5+ years of working experience as a Freelance Software Engineer.
+As a seasoned Freelance Full-Stack Flutter Architect, I am committed to engineering resilient and innovative mobile applications for an extensive array of international clients. 
+My rich background encompasses over **5+ years** of freelance software engineering experience.
 
-I primarily have experience working as a Full-Stack Software Engineer including Flutter, iOS Native, Python, FastApi, ChatGPT, OpenAI, Diffusion stable, Generative AI, Machine Learning, TypeScript, Express, Node, Stripe SDK, AWS, Firebase, MongoDB, MySQL etc.
+My proficiency is deeply rooted in Full-Stack Development, with a mastery of an array of technologies including:
+Artificial Intelligence: 
+-Generative AI, LangChain, Commerical LLMs, Open Source LLMs, RAG Systems. 
+Languages: 
+- Python, Dart, Swift, Kotlin, JavaScript, Typescript.
+Frameworks: 
+- Flutter, Andriod SDK, iOS SDK, FastAPI Web, Django Web, Node.JS, React.JS
+Databases: 
+- MySQL, PostgreSQL, MongoDB
+Payments: 
+- Stripe SDK, and many on demand. 
+-Cloud Computing: 
+-Amazon Web Services [AWS], Microsoft Azure, Google Cloud Platforms 
 
-Learning: Deno.land, Bun.sh's eco-system, Generative AI, etc.
+At present, I am actively broadening my skillset in the realms of Generative AI, Open Source, and Commercial Language Models, while also conducting in-depth research on LLMs.
 
-- 🔭 I’m currently working at [Upwork](https://www.upwork.com/freelancers/~01d478bbabdfa2e861) as a Mobile Application Engineer.
+- 🔭 Reach me out on [Upwork](https://www.upwork.com/freelancers/~01d478bbabdfa2e861)
 - 🔭 Product Manager & Fullstack Software Engineer at [My e-Assitant App](https://myeassistant.app/).
 ***
 
@@ -16,8 +29,6 @@ Learning: Deno.land, Bun.sh's eco-system, Generative AI, etc.
 - [Linkedin](https://www.linkedin.com/in/mrtayyabmughal/)
 - [Twitter](https://twitter.com/wodatoki/)
 - [Instagram](https://www.instagram.com/wodatoki/)
-
-
 
 #### Availability: Available :)
 - 📫 Hire me: [Upwork](https://www.upwork.com/freelancers/~01d478bbabdfa2e861)
@@ -29,5 +40,3 @@ Learning: Deno.land, Bun.sh's eco-system, Generative AI, etc.
 [![Tayyab Mughal's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayyabmughal676)](https://github.com/tayyabmughal676/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabmughal676&layout=compact)](https://github.com/tayyabmughal676/github-readme-stats)
-
-
