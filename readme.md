@@ -22,7 +22,7 @@ My proficiency is deeply rooted in Full-Stack Development, with a mastery of an 
 - Stripe SDK, and many on demand. 
 
 **Cloud Computing:** 
--Amazon Web Services [AWS], Microsoft Azure, Google Cloud Platforms, Digital Oceans, Vercel.
+- Amazon Web Services [AWS], Microsoft Azure, Google Cloud Platforms, Digital Oceans, Vercel.
 
 At present, I am actively broadening my skillset in the realms of Generative AI, Open Source, and Commercial Language Models, while also conducting in-depth research on LLMs.
 
