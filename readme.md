@@ -5,16 +5,22 @@ As a seasoned Freelance Full-Stack Flutter Architect, I am committed to engineer
 My rich background encompasses over **5+ years** of freelance software engineering experience.
 
 My proficiency is deeply rooted in Full-Stack Development, with a mastery of an array of technologies including:
+
 **Artificial Intelligence:** 
 -Generative AI, LangChain, Commerical LLMs, Open Source LLMs, RAG Systems. 
+
 **Languages**: 
 - Python, Dart, Swift, Kotlin, JavaScript, Typescript.
+
 **Frameworks**: 
 - Flutter, Andriod SDK, iOS SDK, FastAPI Web, Django Web, Node.JS, React.JS
+
 **Databases**: 
 - MySQL, PostgreSQL, MongoDB
+
 **Payments: **
 - Stripe SDK, and many on demand. 
+
 **Cloud Computing:** 
 -Amazon Web Services [AWS], Microsoft Azure, Google Cloud Platforms, Digital Oceans, Vercel.
 
