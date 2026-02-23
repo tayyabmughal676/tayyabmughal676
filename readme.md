@@ -2,7 +2,7 @@
 ### Top-Rated Freelance Senior Full-Stack AI Mobile Application Engineer, Generative AI Engineer & Comic Book Creator.
 
 As a seasoned Freelance Full-Stack Flutter Architect, I am committed to engineering resilient and innovative mobile applications for an extensive array of international clients. 
-My rich background encompasses over **5+ years** of freelance software engineering experience.
+My rich background encompasses over **6+ years** of freelance software engineering experience.
 
 My proficiency is deeply rooted in Full-Stack Development, with a mastery of an array of technologies, including:
 
