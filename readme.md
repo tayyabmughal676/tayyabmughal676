@@ -58,4 +58,5 @@ I am a seasoned Full-Stack Architect and AI Researcher with over **6+ years** of
 ### ⚡ Professional Summary
 * 🔭 I’m currently developing **Vantura** to bring Agentic AI to the Flutter community.
 * 💬 Ask me about **LLM State Management**, **RAG Optimization**, or **Scalable Flutter Architectures**.
+* 🏢 I also design and implement **Odoo ERP solutions**, focusing on business automation and workflow optimization.
 * 📖 Fun fact: Outside of coding, I write and illustrate professional comic books.
