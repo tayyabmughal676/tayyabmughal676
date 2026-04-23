@@ -1,6 +1,6 @@
 # Hi there, I'm Tayyab Mughal 👋
 
-### **Senior Full-Stack AI Engineer | Flutter Architect | Generative AI Specialist**
+### **Senior Full-Stack AI Engineer | AI-Driven Odoo Techno-Functional Consultant | Flutter Architect | Generative AI Specialist**
 **Creator of [Vantura](https://pub.dev/packages/vantura): The Stateful Agentic AI Framework for Flutter**
 
 I am a seasoned Full-Stack Architect and AI Researcher with over **6+ years** of experience engineering resilient, intelligent ecosystems. My work bridges the gap between high-performance mobile engineering and the cutting edge of Generative AI.
@@ -18,6 +18,7 @@ I am a seasoned Full-Stack Architect and AI Researcher with over **6+ years** of
 | :--- | :--- |
 | **Artificial Intelligence** | **Generative AI**, LangChain, RAG Systems, Agentic Workflows, LLM Research |
 | **Mobile Development** | **Flutter (Expert)**, Dart, Riverpod, Android/iOS SDK |
+| **Odoo ERP** | Odoo Framework, Python (Odoo ORM), XML (Views), QWeb, Odoo.sh, PostgreSQL |
 | **Backend & Web** | Python (FastAPI, Django), Bun.js, Node.js, TypeScript, React.js |
 | **Infrastructure** | AWS, Azure, GCP, Vercel, Digital Ocean |
 | **Databases** | PostgreSQL, MongoDB, Vector Databases (Pinecone, Milvus) |
