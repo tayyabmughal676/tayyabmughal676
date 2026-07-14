@@ -1,6 +1,6 @@
 # Hi there, I'm Tayyab Mughal 👋
 
-### **Senior Full-Stack AI Engineer | AI-Driven Odoo Techno-Functional Consultant | Flutter Architect | Generative AI Specialist**
+### **Senior AI Agentic Engineer | AI-Driven Microsoft Dynamics 365 FinOps & Business Central Technical Consultant | Flutter Architect**
 **Creator of [Vantura](https://pub.dev/packages/vantura): The Stateful Agentic AI Framework for Flutter**
 
 I am a seasoned Full-Stack Architect and AI Researcher with over **6+ years** of experience engineering resilient, intelligent ecosystems. My work bridges the gap between high-performance mobile engineering and the cutting edge of Generative AI.
@@ -18,15 +18,16 @@ I am a seasoned Full-Stack Architect and AI Researcher with over **6+ years** of
 | :--- | :--- |
 | **Artificial Intelligence** | **Generative AI**, LangChain, RAG Systems, Agentic Workflows, LLM Research |
 | **Mobile Development** | **Flutter (Expert)**, Dart, Riverpod, Android/iOS SDK |
+| **D365 ERP** | D365 Finance & Operations, Business Central Customization, AI Integration, Power Platform, SSRS Reports, Electronic Reporting (ER), X++ Language, AL Language, OData APIs, RESTful APIs, Data Management Framework (DMF), ASP.NET Core, Azure DevOps |
 | **Odoo ERP** | Odoo Framework, Python (Odoo ORM), XML (Views), QWeb, Odoo.sh, PostgreSQL |
 | **Backend & Web** | Python (FastAPI, Django), Bun.js, Node.js, TypeScript, React.js |
-| **Infrastructure** | AWS, Azure, GCP, Vercel, Digital Ocean |
-| **Databases** | PostgreSQL, MongoDB, Vector Databases (Pinecone, Milvus) |
+| **Infrastructure** | AWS, Azure, GCP, Vercel, DigitalOcean |
+| **Databases** | PostgreSQL, MongoDB, MSSQL Server, Vector Databases (Pinecone, Milvus) |
 
 ---
 
 ### 💼 Professional Leadership & Services
-* 🏛 **CEO / Chief AI Officer** at [Data Daur AI Consulting](https://www.datadaur.com/)
+* 🏛 **Chief AI Officer / Business Consultant** at [Data Daur](https://www.datadaur.com/)
 * 💎 **Top-Rated Freelancer** on [Upwork](https://www.upwork.com/freelancers/wodat)
 * 🎨 **Creative Pursuit:** Comic Book Creator & Visual Storyteller
 
