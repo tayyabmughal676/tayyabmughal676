@@ -3,7 +3,7 @@
 ### **Senior AI Agentic Engineer | AI-Driven Microsoft Dynamics 365 FinOps & Business Central Technical Consultant | Flutter Architect**
 **Creator of [Vantura](https://pub.dev/packages/vantura): The Stateful Agentic AI Framework for Flutter**
 
-I am a seasoned Full-Stack Architect and AI Researcher with over **6+ years** of experience engineering resilient, intelligent ecosystems. My work bridges the gap between high-performance mobile engineering and the cutting edge of Generative AI.
+I am a seasoned Full-Stack Solution Architect, AI Engineer, and ERP Technical Consultant with over **10+ years** of experience engineering resilient, intelligent ecosystems. My work bridges the gap between high-performance mobile engineering and the cutting edge of Enterprise Business AI Integrations.
 
 ---
 
@@ -16,9 +16,9 @@ I am a seasoned Full-Stack Architect and AI Researcher with over **6+ years** of
 
 | Category | Technologies |
 | :--- | :--- |
-| **Artificial Intelligence** | **Generative AI**, LangChain, RAG Systems, Agentic Workflows, LLM Research |
-| **Mobile Development** | **Flutter (Expert)**, Dart, Riverpod, Android/iOS SDK |
+| **Artificial Intelligence** | **Generative AI**, AI Agent Development, CrewAI, LangGraph, LangChain, RAG Systems, Agentic Workflows, LLM Research |
 | **D365 ERP** | D365 Finance & Operations, Business Central Customization, AI Integration, Power Platform, SSRS Reports, Electronic Reporting (ER), X++ Language, AL Language, OData APIs, RESTful APIs, Data Management Framework (DMF), ASP.NET Core, Azure DevOps |
+| **Mobile Development** | **Flutter (Expert)**, Dart, Riverpod, Android/iOS SDK |
 | **Odoo ERP** | Odoo Framework, Python (Odoo ORM), XML (Views), QWeb, Odoo.sh, PostgreSQL |
 | **Backend & Web** | Python (FastAPI, Django), Bun.js, Node.js, TypeScript, React.js |
 | **Infrastructure** | AWS, Azure, GCP, Vercel, DigitalOcean |
